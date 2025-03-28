@@ -1,2 +1,2 @@
 # login-portugol
-Código em portugol para estudos
+Código basico em portugol
